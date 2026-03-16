@@ -46,7 +46,7 @@ Política de Privacidad — Bros360
   ---
   5. Retención de datos
 
-  Los datos se conservan mientras la cuenta esté activa. Para solicitar la eliminación de la cuenta y todos los datos asociados, escribir a: [tu-email@dominio.com]
+  Los datos se conservan mientras la cuenta esté activa. Para solicitar la eliminación de la cuenta y todos los datos asociados, escribir a: noe@brospharma.com
 
   ---
   6. Derechos del usuario
@@ -74,6 +74,3 @@ Política de Privacidad — Bros360
 
   Para preguntas sobre esta política de privacidad:
   noe@brospharma.com
-
-  ---
-  Reemplaza los tres [tu-email@dominio.com] con tu email real, publícala en GitHub Pages y me pasas la URL.
