@@ -1,6 +1,6 @@
 Política de Privacidad — Bros360
 
-  Última actualización: 15 de marzo de 2026
+  Última actualización: 16 de marzo de 2026
 
   Alcance de la aplicación
 
